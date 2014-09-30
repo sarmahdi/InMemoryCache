@@ -1,0 +1,33 @@
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache  1
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache before remove 500000
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache after remove 0
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache  1
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache before remove 500000
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache after remove 0
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache  1
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - Initiating Test for cache and its cleanup
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache before remove 500000
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache after remove 0
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - Initiating Test 1 for TTL  
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - Initiating Test 2 for TTL  
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - size of cache  1
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - Initiating Test for retrieving a cache  
+INFO main com.sarm.inmemorycache.base.CacheManager - Returning default cache
+INFO main com.sarm.inmemorycache.base.CacheManagerTest - Initiating Test  for creating a Manager  
