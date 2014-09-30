@@ -56,9 +56,9 @@ public class CacheManager {
                 return defaultCache;
             }
             case SPECIAL: {
-                System.out.println("Sepcial Cache has not been implemented... "
+                System.out.println("Special Cache has not been implemented... "
                         + "returning null");
-                 logger.info("Sepcial Cache has not been implemented... "
+                 logger.info("Special Cache has not been implemented... "
                         + "returning null");
                 return null;
             }
